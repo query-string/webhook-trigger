@@ -6,3 +6,4 @@
 - Permit all params for rendering
 - Liten to other users changes
 - Check how pull request will look like
+- Digg deeper into payload
