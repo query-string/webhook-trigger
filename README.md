@@ -10,3 +10,4 @@
 - Fetch ref
 - Fetch repository
 - Get respository ID
+- Get commits authors
