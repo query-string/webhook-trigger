@@ -4,3 +4,4 @@
 - Test extended controller view
 - Render all params
 - Permit all params for rendering
+- Liten to other users changes
