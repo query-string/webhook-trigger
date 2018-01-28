@@ -7,3 +7,4 @@
 - Liten to other users changes
 - Check how pull request will look like
 - Digg deeper into payload
+- Fetch ref
