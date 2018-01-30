@@ -14,5 +14,5 @@
 - Commits authors fix
 - Return OK header
 - Update webhooks url
-– Fetch data from DB
-– Test refactor changes
+- Fetch data from DB
+- Test refactor changes
