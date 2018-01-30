@@ -17,3 +17,4 @@
 - Fetch data from DB
 - Test refactor changes
 - Adjust constant name
+- Check if commits hash has proper format
