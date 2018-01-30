@@ -16,3 +16,4 @@
 - Update webhooks url
 - Fetch data from DB
 - Test refactor changes
+- Adjust constant name
