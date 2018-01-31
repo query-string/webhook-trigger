@@ -20,3 +20,4 @@
 - Check if commits hash has proper format
 - See if integration receives webhooks
 - See if integration receives webhooks from another user
+- Display repository from the hook
