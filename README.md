@@ -18,3 +18,4 @@
 - Test refactor changes
 - Adjust constant name
 - Check if commits hash has proper format
+- See if integration receives webhooks
