@@ -24,3 +24,4 @@
 - Check if webhook is still triggering
 - Check `webhook` param existence
 - Make sure repository push triggered
+- Adjust detection rule
