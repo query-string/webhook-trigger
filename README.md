@@ -23,3 +23,4 @@
 - Display repository from the hook
 - Check if webhook is still triggering
 - Check `webhook` param existence
+- Make sure repository push triggered
