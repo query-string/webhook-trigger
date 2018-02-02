@@ -26,3 +26,4 @@
 - Make sure repository push triggered
 - Adjust detection rule
 - Receive event type
+- Try to receive action
