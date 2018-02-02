@@ -27,3 +27,4 @@
 - Adjust detection rule
 - Receive event type
 - Try to receive action
+- One more action try
