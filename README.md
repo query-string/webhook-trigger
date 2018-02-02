@@ -25,3 +25,4 @@
 - Check `webhook` param existence
 - Make sure repository push triggered
 - Adjust detection rule
+- Receive event type
