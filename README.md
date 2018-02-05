@@ -28,3 +28,4 @@
 - Receive event type
 - Try to receive action
 - One more action try
+- Review event
