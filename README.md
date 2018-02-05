@@ -40,3 +40,4 @@
 - Fix misstype
 - Adjust repo fetching query
 - Don't forget to pass events provider
+- Add repository to contributor
