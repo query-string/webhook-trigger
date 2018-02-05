@@ -39,3 +39,4 @@
 - Try to save event
 - Fix misstype
 - Adjust repo fetching query
+- Don't forget to pass events provider
