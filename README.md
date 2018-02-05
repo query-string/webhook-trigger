@@ -31,3 +31,4 @@
 - Review event
 - Test events service
 - Yet another try
+- Check if repository will be found and associated this time
