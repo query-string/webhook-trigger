@@ -34,3 +34,4 @@
 - Check if repository will be found and associated this time
 - Check one-two
 - Are you saying repository is not triggered anymore?
+- Adjust application permissions
