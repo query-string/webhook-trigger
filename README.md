@@ -36,3 +36,4 @@
 - Are you saying repository is not triggered anymore?
 - Adjust application permissions
 - And from another user?
+- Try to save event
