@@ -29,3 +29,4 @@
 - Try to receive action
 - One more action try
 - Review event
+- Test events service
