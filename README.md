@@ -37,3 +37,4 @@
 - Adjust application permissions
 - And from another user?
 - Try to save event
+- Fix misstype
