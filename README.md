@@ -43,3 +43,4 @@
 - Add repository to contributor
 - Make sure webhooks verified
 - Another try to verify
+- Check modules
