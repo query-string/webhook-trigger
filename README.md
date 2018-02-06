@@ -42,3 +42,4 @@
 - Don't forget to pass events provider
 - Add repository to contributor
 - Make sure webhooks verified
+- Another try to verify
